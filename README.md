@@ -21,9 +21,9 @@ To clone the repository within VS Code, see [Clone and use a GitHub repository i
 
 Each tutorial/extension task lives in it's own branch. To access these branches, you must "checkout" the particular branch.
 
-1. Select the Source Control icon
+1. Select the `Source Control` icon
 2. Expand the `Branches` menu.
-3. Select the appropriate branch and click the arrow (pointing right) to select that branch.
+3. Select the appropriate branch and click the rightward arrow to select that branch.
 
 You can now download the task files and copy them into the directory.
 
@@ -40,7 +40,7 @@ After adding the files to the directory, you must tell git to first "track" them
 
 Each commit maintains a history of the files that are in that branch. These commits are stored locally and must be uploaded onto GitHub for external access.
 
-To "push" your changes onto a remote repository (like GitHub), click Sync changes. Alternatively, you can click the icon (with two arrows in a circle) on the Status Bar in VS Code (on the bottom-left).
+To "push" your changes onto a remote repository (like GitHub), click `Sync changes`. Alternatively, you can click the icon (with two arrows in a circle) on the Status Bar in VS Code (on the bottom-left).
 
 Additional support for version control can be found here:
 [Using Git source control in VS Code](https://code.visualstudio.com/docs/sourcecontrol/overview#_working-in-a-git-repository)
