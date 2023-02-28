@@ -27,7 +27,7 @@ Each tutorial/extension task lives in it's own branch. To access these branches,
 
 You can now download the task files and copy them into this directory.
 
-**Make sure to switch to the appropriate branch each week!**
+**Make sure to switch to the appropriate branch each week! You can confirm this in the Status Bar in VS Code (bottom-left).**
 
 ### Tracking files
 
